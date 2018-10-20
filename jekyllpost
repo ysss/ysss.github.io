@@ -27,7 +27,7 @@ if (day < 10) day = '0' + day;
 // 根据需要自行修改成自己需要默认设置
 var tplData = [
     '---',
-    'title: ',
+    'title: ' + argv.slice(2).join(' '),
     'layout: post',
     'image:',
     'tags: ',

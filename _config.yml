@@ -1,6 +1,6 @@
 # main text of home
 name: 一小木工
-bio: A Man who survive in China
+bio: A Man who struggling to survive in China
 
 # twitter summary info
 description: A blog about life and thingking
@@ -55,7 +55,7 @@ github: ysss
 authors:
     johndoe:
         name: 一小木工
-        bio: A Man who survive in China
+        bio: A Man who struggling to survive in China
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
